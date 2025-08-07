@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Hospy Fospy Games</title>
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://fonts.cdnfonts.com/css/vcr-osd-mono" rel="stylesheet">
+</head>
+<body>
+
+  <h1>HOSPY FOSPY GAMES</h1>
+
+  <div class="games-container">
+    <div class="game-card">
+      <div class="game-title">Chapter 1</div>
+      <a class="play-button" href="https://e4us-entertainment.itch.io/hospyfospychapter-1" target="_blank">Play</a>
+    </div>
+
+    <div class="game-card">
+      <div class="game-title">Chapter 2</div>
+      <a class="play-button" href="https://e4us-entertainment.itch.io/hospyfospychapter-2" target="_blank">Play</a>
+    </div>
+
+    <div class="game-card">
+      <div class="game-title">Chapter 3</div>
+      <a class="play-button" href="https://e4us-entertainment.itch.io/hospy-fospy-chapter-3" target="_blank">Play</a>
+    </div>
+  </div>
+
+</body>
+</html>
